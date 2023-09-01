@@ -1,0 +1,32 @@
+PROGRAMM prg;
+VAR
+	index, i, n : INTEGER;
+	char : CHAR;
+	bool : BOOLEAN;
+	array : ARRAY [1 .. 3] OF INTEGER;
+END
+MAIN 
+BEGIN
+	READ(i);
+	IF [i > 5] THEN
+		WRITE("More 5");
+	ELSE 
+	    WRITE("less or equal 5");
+
+	index := 0;
+	WHILE [index < 3] DO
+	BEGIN
+		WRITE("Index:", index);
+		index := index + 1;
+	END
+
+	char := 'T';
+	WRITE(char);
+
+	n := 4;
+	i := 4;
+	AND i, n;
+	WRITE("I: ", i);
+END.
+$
+

@@ -1,0 +1,64 @@
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/bin/Debug/net5.0/CompilerV2.exe
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/bin/Debug/net5.0/CompilerV2.deps.json
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/bin/Debug/net5.0/CompilerV2.runtimeconfig.json
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/bin/Debug/net5.0/CompilerV2.runtimeconfig.dev.json
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/bin/Debug/net5.0/CompilerV2.dll
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/bin/Debug/net5.0/CompilerV2.pdb
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/obj/Debug/net5.0/CompilerV2.csproj.AssemblyReference.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/obj/Debug/net5.0/CompilerV2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/obj/Debug/net5.0/CompilerV2.AssemblyInfoInputs.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/obj/Debug/net5.0/CompilerV2.AssemblyInfo.cs
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/obj/Debug/net5.0/CompilerV2.csproj.CoreCompileInputs.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/obj/Debug/net5.0/CompilerV2.dll
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/obj/Debug/net5.0/refint/CompilerV2.dll
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/obj/Debug/net5.0/CompilerV2.pdb
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/obj/Debug/net5.0/CompilerV2.genruntimeconfig.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/CompilerV2/obj/Debug/net5.0/ref/CompilerV2.dll
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/bin/Debug/net5.0/CompilerV2.exe
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/bin/Debug/net5.0/CompilerV2.deps.json
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/bin/Debug/net5.0/CompilerV2.runtimeconfig.json
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/bin/Debug/net5.0/CompilerV2.runtimeconfig.dev.json
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/bin/Debug/net5.0/CompilerV2.dll
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/bin/Debug/net5.0/CompilerV2.pdb
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/obj/Debug/net5.0/CompilerV2.csproj.AssemblyReference.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/obj/Debug/net5.0/CompilerV2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/obj/Debug/net5.0/CompilerV2.AssemblyInfoInputs.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/obj/Debug/net5.0/CompilerV2.AssemblyInfo.cs
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/obj/Debug/net5.0/CompilerV2.csproj.CoreCompileInputs.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/obj/Debug/net5.0/CompilerV2.dll
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/obj/Debug/net5.0/refint/CompilerV2.dll
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/obj/Debug/net5.0/CompilerV2.pdb
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/obj/Debug/net5.0/CompilerV2.genruntimeconfig.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/CompilerV2/obj/Debug/net5.0/ref/CompilerV2.dll
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2.exe
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2.deps.json
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2.runtimeconfig.json
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2.runtimeconfig.dev.json
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2.dll
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2.pdb
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.csproj.AssemblyReference.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.AssemblyInfoInputs.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.AssemblyInfo.cs
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.csproj.CoreCompileInputs.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.dll
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/obj/Debug/net5.0/refint/CompilerV2.dll
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.pdb
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.genruntimeconfig.cache
+C:/Users/Cherk/Downloads/Универ/_8сем/1 Не мое/MainProg/_8_Base/CompilerV2/obj/Debug/net5.0/ref/CompilerV2.dll
+/Users/Никита/спо/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2
+/Users/Никита/спо/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2.deps.json
+/Users/Никита/спо/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2.runtimeconfig.json
+/Users/Никита/спо/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2.runtimeconfig.dev.json
+/Users/Никита/спо/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2.dll
+/Users/Никита/спо/_8_Base/CompilerV2/bin/Debug/net5.0/CompilerV2.pdb
+/Users/Никита/спо/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.csproj.AssemblyReference.cache
+/Users/Никита/спо/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Никита/спо/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.AssemblyInfoInputs.cache
+/Users/Никита/спо/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.AssemblyInfo.cs
+/Users/Никита/спо/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.csproj.CoreCompileInputs.cache
+/Users/Никита/спо/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.dll
+/Users/Никита/спо/_8_Base/CompilerV2/obj/Debug/net5.0/refint/CompilerV2.dll
+/Users/Никита/спо/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.pdb
+/Users/Никита/спо/_8_Base/CompilerV2/obj/Debug/net5.0/CompilerV2.genruntimeconfig.cache
+/Users/Никита/спо/_8_Base/CompilerV2/obj/Debug/net5.0/ref/CompilerV2.dll

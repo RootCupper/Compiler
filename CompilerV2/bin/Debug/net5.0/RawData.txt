@@ -1,0 +1,3 @@
++-*/!="';:,.<>()[]{}|&?^%$№@_
++=-=*=/=++--<<>>&&||<=>===!=:=..
+BEGIN END LET WHILE DO IF THEN ELSE READ WRITE PROGRAMM VAR MAIN BOOLEAN CHAR INTEGER ARRAY OF TRUE FALSE NOT AND 
